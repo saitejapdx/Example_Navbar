@@ -1,0 +1,19 @@
+.form-group {
+  text-align: center;
+}
+
+input#stockcode.form-control {
+  width: 80%;
+  display: inline-block;
+}
+.form-group button {
+  width: 20%;
+  background: rgb(46, 46, 46);
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.form-group button:hover {
+  background: rgb(68, 68, 68);
+}
